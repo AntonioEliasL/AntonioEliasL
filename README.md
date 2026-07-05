@@ -1,35 +1,54 @@
-# ¡Hola! Soy Marco Elias 🚀
-### Futuro Ingeniero en Sistemas | Apasionado por el Desarrollo y la Ciberseguridad
+ ¡Hola! Soy Marco Antonio Elias Lozano
 
-Soy un estudiante de Ingeniería en Sistemas Computacionales en Aguascalientes, México. Mi enfoque principal es construir soluciones de software eficientes y explorar la seguridad en redes. ¡Siempre estoy listo para colaborar en proyectos que generen un impacto global!
+Ingeniero en Sistemas Computacionales | Especializado en Redes, Infraestructura Cloud y Desarrollo
+
+Soy un profesional enfocado en el diseño, configuración y aseguramiento de redes computacionales, así como en el desarrollo de software y aplicaciones eficientes. Cuento con experiencia práctica en la administración de servidores en la nube, despliegue de servicios esenciales y optimización de bases de datos relacionales, buscando siempre conectar la infraestructura de TI con soluciones de software modernas.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+##  Mi Stack Tecnológico
 
-### 💻 Desarrollo de Software
-* **Lenguajes:** Python (Avanzado), C++, C#, SQL.
-* **Web:** HTML5, CSS3, JavaScript.
+###  Redes, Conectividad y Cloud
+* **Infraestructura Nube y OS:** AWS (Instancias EC2, Grupos de Seguridad, VPC), Ubuntu Linux.
+* **Protocolos y Servicios:** DNS, HTTP, HTTPS, SSH, RDP, NTP, Telnet.
+* **Herramientas de Red y Acceso:** Termius, Cisco Packet Tracer, Nmap, Wireshark.
+* **Control de Versiones y Terminal:** Git Bash.
+* **Seguridad:** Hardening de servidores y análisis de vulnerabilidades.
 
-### 🌐 Redes y Seguridad
-* **Herramientas:** Cisco Packet Tracer, Nmap, Análisis de vulnerabilidades.
-* **Sistemas:** Administración de Bases de Datos (Normalización y Optimización).
+### 📱 Desarrollo de Software y Móvil
+* **Lenguajes de Programación:** Python, C++, C#, SQL.
+* **Desarrollo Web y Móvil:** Arquitectura de aplicaciones, JavaScript, HTML5, CSS3.
+* **Bases de Datos:** Administración, diseño relacional, normalización y optimización.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-* **[Financial Control System](link-a-tu-repo):** Aplicación modular en Python para gestión de finanzas con persistencia de datos.
-* **[Medical Management System](link-a-tu-repo):** Sistema robusto en C++ para control hospitalario y gestión de archivos binarios.
-* **[Retail Database Design](link-a-tu-repo):** Modelado de datos profesional optimizado para escalabilidad.
+### 🌐 Despliegue de Infraestructura y Servicios en AWS EC2
+Implementación y configuración de servidores en la nube utilizando instancias AWS. Arquitectura completa de red que incluye la resolución de nombres (DNS), servidores web (HTTP/HTTPS) y accesos remotos administrados (SSH/RDP), aplicando políticas estrictas en grupos de seguridad para el control de accesos.
+* 🔗 [Ver Repositorio](tu-enlace-aquí)
+
+### 📈 Financial Control System
+Aplicación modular desarrollada en Python orientada a la gestión de finanzas personales y empresariales, implementando persistencia de datos y una estructura de código limpia para facilitar su escalabilidad.
+* 🔗 [Ver Repositorio](tu-enlace-aquí)
+
+### 🏥 Medical Management System
+Sistema robusto desarrollado en C++ para el control hospitalario y la gestión eficiente de expedientes médicos, utilizando persistencia en archivos binarios y optimización de memoria.
+* 🔗 [Ver Repositorio](tu-enlace-aquí)
+
+---
+
+## 🧠 Aptitudes Profesionales
+
+* **Diagnóstico y Troubleshooting:** Capacidad analítica para identificar y resolver fallas en topologías de red y depuración de código.
+* **Documentación Técnica:** Habilidad para estructurar manuales, diagramas de flujo y documentación de arquitecturas de red claras.
+* **Atención al Detalle:** Enfoque riguroso en la optimización de consultas de bases de datos y auditorías de seguridad perimetral.
+* **Adaptabilidad:** Capacidad para asimilar rápidamente nuevas metodologías de desarrollo y actualizaciones de protocolos de conectividad.
 
 ---
 
 ## 📫 Conectemos
-* 💼 **LinkedIn:** [Tu Nombre de Usuario](link-a-tu-linkedin)
-* 📧 **Email:** M.AntonioElias.L@gmail.com
+
+* 💼 **LinkedIn:** 
+* ✉️ **Email:** M.AntonioElias.L@gmail.com
 * 📍 **Ubicación:** Aguascalientes, México
-
----
-
-> "El código es la herramienta; la solución es el arte."
